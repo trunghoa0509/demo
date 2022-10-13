@@ -1,0 +1,18 @@
+.album div{
+    text-align: center;
+}
+.album img{
+    width: 200px;
+    margin: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px pink;
+
+}
+.album button{
+    border: none;
+    border-radius: 20px;
+    background: palevioletred;
+    padding: 10px 30px;
+    margin-top: 10px;
+    box-shadow: inset 0 0 20px lightblue;
+}

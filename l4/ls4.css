@@ -1,0 +1,13 @@
+p> img {
+    width: 20%;  height: 150px;
+    padding: 0px;
+    margin: 5px;
+    border-radius: 10px;
+    background-color: palevioletred;
+    box-shadow: 0 0 5px pink;
+
+}
+p>img:hover{
+box-shadow:0 0 20px red;
+background-color: rgb(243, 156, 169);
+}

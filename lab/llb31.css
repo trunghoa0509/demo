@@ -1,0 +1,27 @@
+em {
+    font-variant: small-caps;
+    font-size: 10pxpx;
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 20px;
+}
+h2 {
+    color: white;
+    text-shadow: 0 0 5px;
+}
+body {
+    text-align: left;
+}
+p {
+    color: red;
+}
+p1{
+    color: blue;
+
+}
+p2 {
+color: green;
+}
+strong{
+    color: brown;
+}

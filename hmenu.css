@@ -1,0 +1,12 @@
+.hmenu>a{
+    font-variant: small-caps;
+    color: blue;
+    text-decoration: none;
+}
+.hmenu>a:visited{
+    color: green;
+}
+.hmenu>a:hover{
+    color: red;
+    text-decoration:underline;
+}

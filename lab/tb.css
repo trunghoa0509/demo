@@ -1,0 +1,10 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+tr:nth-child(2n+1){
+    <tr> le
+    background-color: yellow;
+}
+tr:nth-child(2n){<tr>
+background-color: aqua;}
